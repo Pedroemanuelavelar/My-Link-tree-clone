@@ -1,0 +1,69 @@
+@media (min-width: 900px)
+{
+    .btns li
+    {
+        margin-right: 25%;
+        margin-left: 25%;
+        max-width: 50%;
+    }
+}
+
+@media (min-height: 900px)
+{
+    body 
+    {
+        margin-top: 20%;
+    }
+
+    footer img
+    {
+        margin-top: 10%;
+        overflow: hidden;
+        width: 300px;
+        height: 150px;
+    }
+
+    h1
+    {
+        margin-bottom: 15%; 
+    }
+}
+
+@media (min-height: 1600px)
+{
+
+    @media (min-width: 2000px)
+    {
+
+        .logo img
+        {
+            width: 100%;
+            height: 100%;
+        }
+
+        h1
+        {
+            font-size: 2.9em;
+            margin-top: 90px;
+        }
+
+        .btns li
+        {
+            padding: 2%;
+            font-size: 2.9em;
+        }
+
+        .btns img
+        {
+            width: 51px;
+            height: 51px;
+        }
+
+        .logo 
+        {
+            width: 20%;
+            height: 460px;
+            border-radius: 75%;
+        }
+    }
+}
