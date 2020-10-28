@@ -62,13 +62,13 @@ a
 
 p#textSinalized 
 {
-    margin-top: 20px;
-    color:  #ffffff;
-    display: flex;
+    margin-top: 127px;
+    color: #ffffff;
+    /* display: flex; */
     justify-content: space-between;
     margin-left: 200px;
-    
-
+    vertical-align: middle;
+    display: contents;
 }
 
 input[type=checkbox]{
