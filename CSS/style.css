@@ -154,6 +154,13 @@ a.face, a.tt
 }
 
 /* Github Botão */
+.ws:hover
+{
+    background-color:  #3fb3f7;
+    border: 2px solid #0976b4;
+}
+
+/* Github Botão */
 .gh:hover
 {
     background-color:  #000000;
